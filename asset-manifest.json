@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.b17282c7.chunk.css",
-    "main.js": "./static/js/main.e974a4ff.chunk.js",
-    "main.js.map": "./static/js/main.e974a4ff.chunk.js.map",
+    "main.js": "./static/js/main.c3cf149d.chunk.js",
+    "main.js.map": "./static/js/main.c3cf149d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.a8b0312c.js",
     "runtime-main.js.map": "./static/js/runtime-main.a8b0312c.js.map",
-    "static/js/2.5e00a335.chunk.js": "./static/js/2.5e00a335.chunk.js",
-    "static/js/2.5e00a335.chunk.js.map": "./static/js/2.5e00a335.chunk.js.map",
+    "static/js/2.3e5f6ab2.chunk.js": "./static/js/2.3e5f6ab2.chunk.js",
+    "static/js/2.3e5f6ab2.chunk.js.map": "./static/js/2.3e5f6ab2.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.8234f26c44cebb61e306aad859851de4.js": "./precache-manifest.8234f26c44cebb61e306aad859851de4.js",
+    "precache-manifest.5705d8fd98e148f196260272d86cd7a8.js": "./precache-manifest.5705d8fd98e148f196260272d86cd7a8.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.b17282c7.chunk.css.map": "./static/css/main.b17282c7.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
@@ -35,7 +35,9 @@
     "static/media/googleAssistant.jpg": "./static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "./static/media/googleAssistant.a6addc3f.svg",
     "static/media/google_logo.png": "./static/media/google_logo.59b3fb27.png",
+    "static/media/graphql.svg": "./static/media/graphql.a5775a44.svg",
     "static/media/hackerrank.png": "./static/media/hackerrank.b70c35ac.png",
+    "static/media/hootsuite.png": "./static/media/hootsuite.53d021a5.png",
     "static/media/hubspot.png": "./static/media/hubspot.3d5fff44.png",
     "static/media/ibm_logo.png": "./static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "./static/media/iiitk_logo.49b98547.png",
@@ -44,6 +46,7 @@
     "static/media/jsFramework.svg": "./static/media/jsFramework.5b4a6449.svg",
     "static/media/knim.png": "./static/media/knim.9938f881.png",
     "static/media/legato_logo.png": "./static/media/legato_logo.c597fbde.png",
+    "static/media/linux.png": "./static/media/linux.e7779e6e.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "./static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "./static/media/nptel_logo.780d653e.png",
@@ -56,12 +59,13 @@
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "./static/media/tiktok_logo.0993e324.png",
+    "static/media/udemy.png": "./static/media/udemy.93165459.png",
     "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.d6363089.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a8b0312c.js",
-    "static/js/2.5e00a335.chunk.js",
+    "static/js/2.3e5f6ab2.chunk.js",
     "static/css/main.b17282c7.chunk.css",
-    "static/js/main.e974a4ff.chunk.js"
+    "static/js/main.c3cf149d.chunk.js"
   ]
 }

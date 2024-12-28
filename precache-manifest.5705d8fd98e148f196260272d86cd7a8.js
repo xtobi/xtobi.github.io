@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f44220b62959bc0f7022c8f38528e793",
+    "revision": "cfe94a8ad075f15c8be6ff21487e4a57",
     "url": "./index.html"
   },
   {
-    "revision": "87af32795159f0197bdd",
+    "revision": "c1c223b222dde9043fbb",
     "url": "./static/css/main.b17282c7.chunk.css"
   },
   {
-    "revision": "e06baf9c4083e0db7ba1",
-    "url": "./static/js/2.5e00a335.chunk.js"
+    "revision": "7b272cff09ac291a55ed",
+    "url": "./static/js/2.3e5f6ab2.chunk.js"
   },
   {
-    "revision": "87af32795159f0197bdd",
-    "url": "./static/js/main.e974a4ff.chunk.js"
+    "revision": "c1c223b222dde9043fbb",
+    "url": "./static/js/main.c3cf149d.chunk.js"
   },
   {
     "revision": "c2486fe9b454a25266db",
@@ -200,8 +200,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/google_logo.59b3fb27.png"
   },
   {
+    "revision": "a5775a445cb8c7453e6ed80a5cc6b125",
+    "url": "./static/media/graphql.a5775a44.svg"
+  },
+  {
     "revision": "b70c35ac72a5ab504de8ef187eb558b9",
     "url": "./static/media/hackerrank.b70c35ac.png"
+  },
+  {
+    "revision": "53d021a5062e0914530de851ab7b5089",
+    "url": "./static/media/hootsuite.53d021a5.png"
   },
   {
     "revision": "3d5fff449a6de69559fcb6fca4b85bd7",
@@ -234,6 +242,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
     "url": "./static/media/legato_logo.c597fbde.png"
+  },
+  {
+    "revision": "e7779e6e9b3df89667e74f083ae9689c",
+    "url": "./static/media/linux.e7779e6e.png"
   },
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
@@ -282,6 +294,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
     "url": "./static/media/tiktok_logo.0993e324.png"
+  },
+  {
+    "revision": "931654594a2afa5608d46a70c907df2c",
+    "url": "./static/media/udemy.93165459.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
