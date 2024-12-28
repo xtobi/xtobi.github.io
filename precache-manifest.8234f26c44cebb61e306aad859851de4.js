@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f5191625a00ae777aba63f65568b7fe",
+    "revision": "f44220b62959bc0f7022c8f38528e793",
     "url": "./index.html"
   },
   {
-    "revision": "94130ca2825860ddc58c",
+    "revision": "87af32795159f0197bdd",
     "url": "./static/css/main.b17282c7.chunk.css"
   },
   {
-    "revision": "43ccf7d2b91ec72ac08b",
-    "url": "./static/js/2.6e5485c4.chunk.js"
+    "revision": "e06baf9c4083e0db7ba1",
+    "url": "./static/js/2.5e00a335.chunk.js"
   },
   {
-    "revision": "94130ca2825860ddc58c",
-    "url": "./static/js/main.5130ae17.chunk.js"
+    "revision": "87af32795159f0197bdd",
+    "url": "./static/js/main.e974a4ff.chunk.js"
   },
   {
     "revision": "c2486fe9b454a25266db",
@@ -80,12 +80,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/contactMail.5f915405.png"
   },
   {
+    "revision": "38770b864847fc01c5c24d995a153b84",
+    "url": "./static/media/coursera_logo.38770b86.png"
+  },
+  {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
     "url": "./static/media/data_science.ebf35d7f.svg"
   },
   {
-    "revision": "75a7107b7739a46950f66de29779eb52",
-    "url": "./static/media/deeplearning_ai_logo.75a7107b.png"
+    "revision": "3209fd406db97599cbda6f5163db3295",
+    "url": "./static/media/deeplearning_ai_logo.3209fd40.png"
   },
   {
     "revision": "3e23ca14e7a7c8a7b63d255466749000",
@@ -172,6 +176,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/fullstack.fce60807.svg"
   },
   {
+    "revision": "540804e3eb78da559b34a731c019b613",
+    "url": "./static/media/futurelearn.540804e3.png"
+  },
+  {
     "revision": "0ee7e8c9444cdfefc10f6d86e18b9b5b",
     "url": "./static/media/gcp_logo.0ee7e8c9.png"
   },
@@ -188,24 +196,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/googleAssistant.a6addc3f.svg"
   },
   {
+    "revision": "59b3fb272b5460b7b44045083744436a",
+    "url": "./static/media/google_logo.59b3fb27.png"
+  },
+  {
+    "revision": "b70c35ac72a5ab504de8ef187eb558b9",
+    "url": "./static/media/hackerrank.b70c35ac.png"
+  },
+  {
+    "revision": "3d5fff449a6de69559fcb6fca4b85bd7",
+    "url": "./static/media/hubspot.3d5fff44.png"
+  },
+  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "./static/media/ibm_logo.d3fccbe1.png"
   },
   {
-    "revision": "571a8584e69ecfbe326c8b8385fbbf54",
-    "url": "./static/media/iiitk_logo.571a8584.png"
+    "revision": "49b98547ecdfc7fdf8c688a09546d54d",
+    "url": "./static/media/iiitk_logo.49b98547.png"
   },
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "./static/media/intel_logo.29152cf7.jpg"
   },
   {
-    "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
-    "url": "./static/media/iu_logo.60ed0bd3.png"
+    "revision": "158f77094cf9d6c9cf044cef86db9044",
+    "url": "./static/media/iu_logo.158f7709.png"
   },
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
     "url": "./static/media/jsFramework.5b4a6449.svg"
+  },
+  {
+    "revision": "9938f88141b271f25e8cac6e025ea4a6",
+    "url": "./static/media/knim.9938f881.png"
   },
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
@@ -220,8 +244,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/muffito_logo.069938a8.png"
   },
   {
-    "revision": "95a12a2b8c3149cce2175679755c4b4d",
-    "url": "./static/media/nptel_logo.95a12a2b.png"
+    "revision": "780d653e3f7b61e9af0ed7e9b71afe1c",
+    "url": "./static/media/nptel_logo.780d653e.png"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
@@ -240,8 +264,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/pwa.71408db7.png"
   },
   {
-    "revision": "2c497738be3831492aeb6bdc43f19154",
-    "url": "./static/media/stanford_logo.2c497738.png"
+    "revision": "d22f58188f38a6f0a94498f210e4935a",
+    "url": "./static/media/shopingads.d22f5818.png"
+  },
+  {
+    "revision": "8a026660e3502145877f92c91a4b162a",
+    "url": "./static/media/stanford_logo.8a026660.png"
   },
   {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
