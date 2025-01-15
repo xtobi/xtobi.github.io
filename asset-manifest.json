@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.b17282c7.chunk.css",
-    "main.js": "./static/js/main.720a7411.chunk.js",
-    "main.js.map": "./static/js/main.720a7411.chunk.js.map",
+    "main.js": "./static/js/main.808a314f.chunk.js",
+    "main.js.map": "./static/js/main.808a314f.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.a8b0312c.js",
     "runtime-main.js.map": "./static/js/runtime-main.a8b0312c.js.map",
     "static/js/2.444c1339.chunk.js": "./static/js/2.444c1339.chunk.js",
     "static/js/2.444c1339.chunk.js.map": "./static/js/2.444c1339.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f5916c956cc2eff96c4e53046563b64e.js": "./precache-manifest.f5916c956cc2eff96c4e53046563b64e.js",
+    "precache-manifest.878246b60b4bddd8f71ac85a9810f902.js": "./precache-manifest.878246b60b4bddd8f71ac85a9810f902.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.b17282c7.chunk.css.map": "./static/css/main.b17282c7.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
@@ -49,7 +49,7 @@
     "static/media/legato_logo.png": "./static/media/legato_logo.c597fbde.png",
     "static/media/linux.png": "./static/media/linux.e7779e6e.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
-    "static/media/meta.png": "./static/media/meta.35f2e7f9.png",
+    "static/media/meta.png": "./static/media/meta.2e12a91b.png",
     "static/media/muffito_logo.png": "./static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "./static/media/nptel_logo.780d653e.png",
     "static/media/portfolio.gif": "./static/media/portfolio.414dfbd9.gif",
@@ -68,6 +68,6 @@
     "static/js/runtime-main.a8b0312c.js",
     "static/js/2.444c1339.chunk.js",
     "static/css/main.b17282c7.chunk.css",
-    "static/js/main.720a7411.chunk.js"
+    "static/js/main.808a314f.chunk.js"
   ]
 }
